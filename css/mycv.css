@@ -123,7 +123,7 @@ html{
   color: #ceae63;
   font-weight: 500;
 }
- @media (max-width:380px){
+ @media (max-width:415px){
    .landing .intro-text p{
     font-size: 16px;
     position: relative;
